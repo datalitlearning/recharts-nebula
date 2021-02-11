@@ -1,0 +1,11 @@
+{
+  "name": "nebula-react-starter",
+  "version": "0.0.1",
+  "description": "",
+  "author": {
+    "name": "DataLit",
+    "email": "hello@datalit.io"
+  },
+  "icon": "extension",
+  "type": "visualization"
+}

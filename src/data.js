@@ -2,11 +2,11 @@ export default {
   targets: [{
     path: '/qHyperCubeDef',
     dimensions: {
-      min: 0,
-      max: 2,
+      min: 1,
+      max: 1,
     },
     measures: {
-      min: 0,
+      min: 2,
       max: 2,
     },
   }]
